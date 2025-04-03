@@ -1,6 +1,6 @@
 ## 👋 Hey there! I'm Olawale  
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQFtEPlo33rnpw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727246073730?e=1749081600&v=beta&t=ZsQFiyGU633YB4psg79silbd4omDFYSkRxVcNUuZ9uo" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 I'm a **Backend Developer**, **Cloud Enthusiast**, and **Data Engineer** who loves building scalable and efficient software solutions. My journey spans from developing high-performance APIs with **.NET** to optimizing search experiences with **Elasticsearch** and handling real-time data with **Kafka**.  
 
 🔹 **Passionate About:**  
@@ -18,7 +18,7 @@ When I’m not coding, you’ll find me **hitting the gym**, **reading about AI 
 🚀 **Let’s Connect!**  
 If you're interested in collaborating on exciting projects or just geeking out over tech, feel free to reach out!  
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+## Find me around the web 🌎:
 
 - Portfolio website at <a href="https://olawale.tech">olawale.tech</a> 📹 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/ola22/">LinkedIn</a> 💼
